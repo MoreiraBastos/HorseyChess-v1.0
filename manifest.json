@@ -1,0 +1,15 @@
+{
+    "name": "HorseyChess by Edson Moreira Bastos",
+    "short_name": "HC",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#222",
+    "theme_color": "#0000FF",
+    "icons": [
+        {
+            "src": "icon.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
